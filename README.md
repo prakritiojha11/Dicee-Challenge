@@ -9,10 +9,10 @@
 # :woman_shrugging: **How to Play**
  *Dicee is a two-player game where each player rolls a die, and the player who rolls the highest number wins. This project is a web-based implementation of the game, built using HTML, CSS, and JavaScript. You can play it by opening the index.html file in a web browser.*
 # **Files**
-* **The project consists of the following files:**<br>
-* **index.html: The main HTML file that displays the game interface.<br>
-* styles.css: The CSS file that styles the game interface.<br>
-* index.js: The JavaScript file that implements the game logic.**
+**The project consists of the following files:**<br>
+* **index.html: The main HTML file that displays the game interface.** <br>
+* **styles.css: The CSS file that styles the game interface.** <br>
+* **index.js: The JavaScript file that implements the game logic.**
 
 # **Game Logic**
 *The game logic is contained within the game.js file. The game uses two arrays to keep track of the sequence of colors and the user's clicked colors. Each time the user clicks on a color button, the clicked color is added to the user's array, and the function checkAnswer is called to check if the user's sequence matches the computer's sequence. If the user's sequence matches, the game moves on to the next level. If the user makes a mistake, the game ends and the startOver function is called to reset the game.*
