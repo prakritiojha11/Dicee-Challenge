@@ -28,16 +28,17 @@
 
 *Overall, the logic of the game is relatively simple, but it provides an entertaining way to simulate a dice game between two players.*
 
-[Play Here](file:///C:/Users/Hp/OneDrive/Desktop/Simon%20Game%20Challenge%20Step%201%20Answer/index.html)
+
 
 # :rocket: **Features**
 
-* The project is a browser-based implementation of the classic electronic game Simon.<br>
-* It uses HTML, CSS, and JavaScript to create the game interface and logic.<br>
-* The game features four colored buttons that light up in a random pattern that the player must then repeat.<br>
-* The game keeps track of the player's progress through the levels and increases the difficulty as they advance.<br>
-* The game includes sound effects and animations to enhance the playing experience.<br>
-* The game includes error handling to detect and respond to incorrect button presses.<br>
-* The game is responsive and can be played on a variety of devices and screen sizes.<br>
+* Dynamic dice roll: The game generates random numbers between 1 and 6 for each dice, simulating a dynamic dice roll.<br>
+*Image swapping: The program updates the images of the dice to match the generated numbers, giving the illusion of rolling dice.<br>
+*Responsive design: The game has a responsive design that adapts to different screen sizes. <br>
+* Winning message: The program displays a message declaring the winner of the game based on the generated numbers.<br>
+* Simple user interface: The game has a simple user interface that is easy to understand and play.<br>
+* Customizable styling: The game's styling can be customized using the CSS file, allowing for flexibility in the appearance of the game.<br>
+* Easy to edit code: The JavaScript code is easy to understand and modify, allowing for customization of the game's functionality.<br>
+
 
 # :fire: **Screenshort**
