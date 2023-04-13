@@ -33,8 +33,8 @@
 # :rocket: **Features**
 
 * Dynamic dice roll: The game generates random numbers between 1 and 6 for each dice, simulating a dynamic dice roll.<br>
-*Image swapping: The program updates the images of the dice to match the generated numbers, giving the illusion of rolling dice.<br>
-*Responsive design: The game has a responsive design that adapts to different screen sizes. <br>
+* Image swapping: The program updates the images of the dice to match the generated numbers, giving the illusion of rolling dice.<br>
+* Responsive design: The game has a responsive design that adapts to different screen sizes. <br>
 * Winning message: The program displays a message declaring the winner of the game based on the generated numbers.<br>
 * Simple user interface: The game has a simple user interface that is easy to understand and play.<br>
 * Customizable styling: The game's styling can be customized using the CSS file, allowing for flexibility in the appearance of the game.<br>
