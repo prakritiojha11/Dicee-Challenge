@@ -14,8 +14,18 @@
 * **styles.css: The CSS file that styles the game interface.** <br>
 * **index.js: The JavaScript file that implements the game logic.**
 
-# **Game Logic**
-*The game logic is contained within the game.js file. The game uses two arrays to keep track of the sequence of colors and the user's clicked colors. Each time the user clicks on a color button, the clicked color is added to the user's array, and the function checkAnswer is called to check if the user's sequence matches the computer's sequence. If the user's sequence matches, the game moves on to the next level. If the user makes a mistake, the game ends and the startOver function is called to reset the game.*
+# ** Logic of the game**
+*The logic of this game is to simulate a dice game between two players, where each player rolls a dice and the player with the highest number on their dice wins.
+
+The game is implemented using HTML, CSS, and JavaScript. The HTML file contains the structure of the game, including the two dice images and a header displaying the winner. The CSS file styles the game's components, including the font, color, and layout.
+
+The JavaScript file contains the logic for generating random numbers between 1 and 6 for each dice, updating the dice images to match the generated numbers, and displaying the winner of the game.
+
+The game starts by generating a random number between 1 and 6 for each dice using the Math.random() method. The generated numbers are then used to select the corresponding dice image from the images folder, and the images are updated accordingly using the setAttribute() method.
+
+After the dice are rolled and the images are updated, the program checks to see which player won the game by comparing the two generated numbers. If player 1 has a higher number, the program displays "Player 1 Wins!" with a flag emoji. If player 2 has a higher number, the program displays "Player 2 Wins!" with a flag emoji. If both players have the same number, the program displays "Draw!".
+
+Overall, the logic of the game is relatively simple, but it provides an entertaining way to simulate a dice game between two players.*
 
 [Play Here](file:///C:/Users/Hp/OneDrive/Desktop/Simon%20Game%20Challenge%20Step%201%20Answer/index.html)
 
