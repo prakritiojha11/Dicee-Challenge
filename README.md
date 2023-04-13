@@ -14,7 +14,7 @@
 * **styles.css: The CSS file that styles the game interface.** <br>
 * **index.js: The JavaScript file that implements the game logic.**
 
-# ** Logic of the game**
+# **Logic of the game**
 *The logic of this game is to simulate a dice game between two players, where each player rolls a dice and the player with the highest number on their dice wins.
 
 The game is implemented using HTML, CSS, and JavaScript. The HTML file contains the structure of the game, including the two dice images and a header displaying the winner. The CSS file styles the game's components, including the font, color, and layout.
