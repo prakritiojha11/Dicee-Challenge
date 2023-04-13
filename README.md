@@ -13,6 +13,7 @@
 * **index.html: The main HTML file that displays the game interface.** <br>
 * **styles.css: The CSS file that styles the game interface.** <br>
 * **index.js: The JavaScript file that implements the game logic.**
+<br> 
 
 # **Logic of the game**
 *The logic of this game is to simulate a dice game between two players, where each player rolls a dice and the player with the highest number on their dice wins.
