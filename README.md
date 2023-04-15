@@ -42,3 +42,5 @@
 
 
 # :fire: **Screenshort**
+![sreenshort 1](https://github.com/someoneme11/Dicee-Challenge/blob/37af027ad28d51b36275e4de65011013681be516/dice1img.png)
+![sreenshort 2](https://github.com/someoneme11/Dicee-Challenge/blob/37af027ad28d51b36275e4de65011013681be516/dice2img.png)
